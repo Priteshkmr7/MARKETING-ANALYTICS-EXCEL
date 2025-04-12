@@ -2,8 +2,7 @@
 
 This folder showcases my hands-on work in Pricing Analytics using Microsoft Excel. The models reflect a blend of economic theory, marketing insights, and spreadsheet-based decision-making. 
 Each file demonstrates a different pricing strategy applied through real-world scenarios and Solver-based optimization.
-These models are based on concepts taught by **Swagato Chatterjee – NPTEL** and **Haytham Omar – Udemy**, and were implemented and adapted by me to understand real-world pricing scenarios across various industries.
-
+These models are based on concepts taught by **Swagato Chatterjee – NPTEL**,**Haytham Omar – Udemy** and **Linkedin Learning**, and were implemented and adapted by me to understand real-world pricing scenarios across various industries.
 ## 📂 Contents
 
 | File Name | Pricing Concept | Description |
